@@ -1,0 +1,109 @@
+Can not find model defined with enviroment variable:
+${KISYS3DMOD}/Package_DIP.3dshapes/DIP-8_W7.62mm.wrl
+Can not find model defined with enviroment variable:
+${KISYS3DMOD}/Potentiometer_THT.3dshapes/Potentiometer_Alps_RK163_Single_Horizontal.wrl
+Can not find model defined with enviroment variable:
+${KISYS3DMOD}/Potentiometer_THT.3dshapes/Potentiometer_Alps_RK163_Single_Horizontal.wrl
+Can not find model defined with enviroment variable:
+${KISYS3DMOD}/Capacitor_THT.3dshapes/C_Disc_D3.0mm_W1.6mm_P2.50mm.wrl
+Can not find model defined with enviroment variable:
+${KISYS3DMOD}/Capacitor_THT.3dshapes/CP_Radial_D4.0mm_P2.00mm.wrl
+Can not find model defined with enviroment variable:
+${KISYS3DMOD}/Capacitor_THT.3dshapes/CP_Radial_D4.0mm_P2.00mm.wrl
+Can not find model defined with enviroment variable:
+${KISYS3DMOD}/Capacitor_THT.3dshapes/C_Disc_D3.0mm_W1.6mm_P2.50mm.wrl
+Can not find model defined with enviroment variable:
+${KISYS3DMOD}/Capacitor_THT.3dshapes/C_Disc_D3.0mm_W1.6mm_P2.50mm.wrl
+Can not find model defined with enviroment variable:
+${KISYS3DMOD}/Capacitor_THT.3dshapes/C_Disc_D3.0mm_W1.6mm_P2.50mm.wrl
+Can not find model defined with enviroment variable:
+${KISYS3DMOD}/Capacitor_THT.3dshapes/C_Disc_D3.0mm_W1.6mm_P2.50mm.wrl
+Can not find model defined with enviroment variable:
+${KISYS3DMOD}/Capacitor_THT.3dshapes/C_Disc_D3.0mm_W1.6mm_P2.50mm.wrl
+Can not find model defined with enviroment variable:
+${KISYS3DMOD}/Capacitor_THT.3dshapes/C_Disc_D3.0mm_W1.6mm_P2.50mm.wrl
+Can not find model defined with enviroment variable:
+${KISYS3DMOD}/Capacitor_THT.3dshapes/C_Disc_D3.0mm_W1.6mm_P2.50mm.wrl
+Can not find model defined with enviroment variable:
+${KISYS3DMOD}/Capacitor_THT.3dshapes/C_Disc_D5.0mm_W2.5mm_P5.00mm.wrl
+Can not find model defined with enviroment variable:
+${KISYS3DMOD}/Capacitor_THT.3dshapes/C_Disc_D3.0mm_W1.6mm_P2.50mm.wrl
+Can not find model defined with enviroment variable:
+${KISYS3DMOD}/Capacitor_THT.3dshapes/C_Disc_D3.0mm_W1.6mm_P2.50mm.wrl
+Can not find model defined with enviroment variable:
+${KISYS3DMOD}/Capacitor_THT.3dshapes/C_Disc_D4.3mm_W1.9mm_P5.00mm.wrl
+Can not find model defined with enviroment variable:
+${KISYS3DMOD}/Capacitor_THT.3dshapes/C_Disc_D3.0mm_W1.6mm_P2.50mm.wrl
+Can not find model defined with enviroment variable:
+${KISYS3DMOD}/LED_THT.3dshapes/LED_D5.0mm.wrl
+Can not find model defined with enviroment variable:
+${KISYS3DMOD}/Diode_THT.3dshapes/D_DO-41_SOD81_P10.16mm_Horizontal.wrl
+Can not find model defined with enviroment variable:
+${KISYS3DMOD}/Diode_THT.3dshapes/D_DO-41_SOD81_P10.16mm_Horizontal.wrl
+Can not find model defined with enviroment variable:
+${KISYS3DMOD}/Potentiometer_THT.3dshapes/Potentiometer_Alps_RK163_Single_Horizontal.wrl
+Can not find model defined with enviroment variable:
+${KISYS3DMOD}/Potentiometer_THT.3dshapes/Potentiometer_Alps_RK163_Single_Horizontal.wrl
+Can not find model defined with enviroment variable:
+${KISYS3DMOD}/Connector_PinHeader_2.54mm.3dshapes/PinHeader_1x02_P2.54mm_Vertical.wrl
+Can not find model defined with enviroment variable:
+${KISYS3DMOD}/Connector_IDC.3dshapes/IDC-Header_2x05_P2.54mm_Vertical.wrl
+Can not find model defined with enviroment variable:
+${KISYS3DMOD}/Connector_PinHeader_2.54mm.3dshapes/PinHeader_1x02_P2.54mm_Vertical.wrl
+Can not find model defined with enviroment variable:
+${KISYS3DMOD}/Potentiometer_THT.3dshapes/Potentiometer_Alps_RK163_Single_Horizontal.wrl
+Can not find model defined with enviroment variable:
+${KISYS3DMOD}/Potentiometer_THT.3dshapes/Potentiometer_Alps_RK163_Single_Horizontal.wrl
+Can not find model defined with enviroment variable:
+${KISYS3DMOD}/Potentiometer_THT.3dshapes/Potentiometer_Alps_RK163_Single_Horizontal.wrl
+Can not find model defined with enviroment variable:
+${KISYS3DMOD}/Resistor_THT.3dshapes/R_Axial_DIN0204_L3.6mm_D1.6mm_P2.54mm_Vertical.wrl
+Can not find model defined with enviroment variable:
+${KISYS3DMOD}/Resistor_THT.3dshapes/R_Axial_DIN0204_L3.6mm_D1.6mm_P2.54mm_Vertical.wrl
+Can not find model defined with enviroment variable:
+${KISYS3DMOD}/Resistor_THT.3dshapes/R_Axial_DIN0204_L3.6mm_D1.6mm_P2.54mm_Vertical.wrl
+Can not find model defined with enviroment variable:
+${KISYS3DMOD}/Resistor_THT.3dshapes/R_Axial_DIN0204_L3.6mm_D1.6mm_P2.54mm_Vertical.wrl
+Can not find model defined with enviroment variable:
+${KISYS3DMOD}/Resistor_THT.3dshapes/R_Axial_DIN0204_L3.6mm_D1.6mm_P2.54mm_Vertical.wrl
+Can not find model defined with enviroment variable:
+${KISYS3DMOD}/Resistor_THT.3dshapes/R_Axial_DIN0204_L3.6mm_D1.6mm_P2.54mm_Vertical.wrl
+Can not find model defined with enviroment variable:
+${KISYS3DMOD}/Resistor_THT.3dshapes/R_Axial_DIN0204_L3.6mm_D1.6mm_P2.54mm_Vertical.wrl
+Can not find model defined with enviroment variable:
+${KISYS3DMOD}/Resistor_THT.3dshapes/R_Axial_DIN0204_L3.6mm_D1.6mm_P2.54mm_Vertical.wrl
+Can not find model defined with enviroment variable:
+${KISYS3DMOD}/Resistor_THT.3dshapes/R_Axial_DIN0204_L3.6mm_D1.6mm_P2.54mm_Vertical.wrl
+Can not find model defined with enviroment variable:
+${KISYS3DMOD}/Resistor_THT.3dshapes/R_Axial_DIN0204_L3.6mm_D1.6mm_P2.54mm_Vertical.wrl
+Can not find model defined with enviroment variable:
+${KISYS3DMOD}/Resistor_THT.3dshapes/R_Axial_DIN0204_L3.6mm_D1.6mm_P2.54mm_Vertical.wrl
+Can not find model defined with enviroment variable:
+${KISYS3DMOD}/Resistor_THT.3dshapes/R_Axial_DIN0204_L3.6mm_D1.6mm_P2.54mm_Vertical.wrl
+Can not find model defined with enviroment variable:
+${KISYS3DMOD}/Resistor_THT.3dshapes/R_Axial_DIN0204_L3.6mm_D1.6mm_P2.54mm_Vertical.wrl
+Can not find model defined with enviroment variable:
+${KISYS3DMOD}/Resistor_THT.3dshapes/R_Axial_DIN0204_L3.6mm_D1.6mm_P2.54mm_Vertical.wrl
+Can not find model defined with enviroment variable:
+${KISYS3DMOD}/Resistor_THT.3dshapes/R_Axial_DIN0204_L3.6mm_D1.6mm_P2.54mm_Vertical.wrl
+Can not find model defined with enviroment variable:
+${KISYS3DMOD}/Resistor_THT.3dshapes/R_Axial_DIN0204_L3.6mm_D1.6mm_P2.54mm_Vertical.wrl
+Can not find model defined with enviroment variable:
+${KISYS3DMOD}/Resistor_THT.3dshapes/R_Axial_DIN0204_L3.6mm_D1.6mm_P2.54mm_Vertical.wrl
+Can not find model defined with enviroment variable:
+${KISYS3DMOD}/Resistor_THT.3dshapes/R_Axial_DIN0204_L3.6mm_D1.6mm_P2.54mm_Vertical.wrl
+Can not find model defined with enviroment variable:
+${KISYS3DMOD}/Resistor_THT.3dshapes/R_Axial_DIN0204_L3.6mm_D1.6mm_P2.54mm_Vertical.wrl
+Can not find model defined with enviroment variable:
+${KISYS3DMOD}/Resistor_THT.3dshapes/R_Axial_DIN0204_L3.6mm_D1.6mm_P2.54mm_Vertical.wrl
+Can not find model defined with enviroment variable:
+${KISYS3DMOD}/Resistor_THT.3dshapes/R_Axial_DIN0204_L3.6mm_D1.6mm_P2.54mm_Vertical.wrl
+Can not find model defined with enviroment variable:
+${KISYS3DMOD}/Connector_PinHeader_2.54mm.3dshapes/PinHeader_1x02_P2.54mm_Vertical.wrl
+Can not find model defined with enviroment variable:
+${KISYS3DMOD}/Package_DIP.3dshapes/DIP-8_W7.62mm.wrl
+Can not find model defined with enviroment variable:
+${KISYS3DMOD}/Package_DIP.3dshapes/DIP-8_W7.62mm.wrl
+Can not find model defined with enviroment variable:
+${KISYS3DMOD}/Package_DIP.3dshapes/DIP-8_W7.62mm.wrl
+[('U1', '${KISYS3DMOD}/Package_DIP.3dshapes/DIP-8_W7.62mm.wrl'), ('RV2', '${KISYS3DMOD}/Potentiometer_THT.3dshapes/Potentiometer_Alps_RK163_Single_Horizontal.wrl'), ('RV7', '${KISYS3DMOD}/Potentiometer_THT.3dshapes/Potentiometer_Alps_RK163_Single_Horizontal.wrl'), ('C1', '${KISYS3DMOD}/Capacitor_THT.3dshapes/C_Disc_D3.0mm_W1.6mm_P2.50mm.wrl'), ('C2', '${KISYS3DMOD}/Capacitor_THT.3dshapes/CP_Radial_D4.0mm_P2.00mm.wrl'), ('C3', '${KISYS3DMOD}/Capacitor_THT.3dshapes/CP_Radial_D4.0mm_P2.00mm.wrl'), ('C4', '${KISYS3DMOD}/Capacitor_THT.3dshapes/C_Disc_D3.0mm_W1.6mm_P2.50mm.wrl'), ('C6', '${KISYS3DMOD}/Capacitor_THT.3dshapes/C_Disc_D3.0mm_W1.6mm_P2.50mm.wrl'), ('C7', '${KISYS3DMOD}/Capacitor_THT.3dshapes/C_Disc_D3.0mm_W1.6mm_P2.50mm.wrl'), ('C8', '${KISYS3DMOD}/Capacitor_THT.3dshapes/C_Disc_D3.0mm_W1.6mm_P2.50mm.wrl'), ('C9', '${KISYS3DMOD}/Capacitor_THT.3dshapes/C_Disc_D3.0mm_W1.6mm_P2.50mm.wrl'), ('C10', '${KISYS3DMOD}/Capacitor_THT.3dshapes/C_Disc_D3.0mm_W1.6mm_P2.50mm.wrl'), ('C11', '${KISYS3DMOD}/Capacitor_THT.3dshapes/C_Disc_D3.0mm_W1.6mm_P2.50mm.wrl'), ('C12', '${KISYS3DMOD}/Capacitor_THT.3dshapes/C_Disc_D5.0mm_W2.5mm_P5.00mm.wrl'), ('C13', '${KISYS3DMOD}/Capacitor_THT.3dshapes/C_Disc_D3.0mm_W1.6mm_P2.50mm.wrl'), ('C14', '${KISYS3DMOD}/Capacitor_THT.3dshapes/C_Disc_D3.0mm_W1.6mm_P2.50mm.wrl'), ('C15', '${KISYS3DMOD}/Capacitor_THT.3dshapes/C_Disc_D4.3mm_W1.9mm_P5.00mm.wrl'), ('C16', '${KISYS3DMOD}/Capacitor_THT.3dshapes/C_Disc_D3.0mm_W1.6mm_P2.50mm.wrl'), ('D1', '${KISYS3DMOD}/LED_THT.3dshapes/LED_D5.0mm.wrl'), ('D2', '${KISYS3DMOD}/Diode_THT.3dshapes/D_DO-41_SOD81_P10.16mm_Horizontal.wrl'), ('D3', '${KISYS3DMOD}/Diode_THT.3dshapes/D_DO-41_SOD81_P10.16mm_Horizontal.wrl'), ('RV1', '${KISYS3DMOD}/Potentiometer_THT.3dshapes/Potentiometer_Alps_RK163_Single_Horizontal.wrl'), ('RV4', '${KISYS3DMOD}/Potentiometer_THT.3dshapes/Potentiometer_Alps_RK163_Single_Horizontal.wrl'), ('J1', '${KISYS3DMOD}/Connector_PinHeader_2.54mm.3dshapes/PinHeader_1x02_P2.54mm_Vertical.wrl'), ('J2', '${KISYS3DMOD}/Connector_IDC.3dshapes/IDC-Header_2x05_P2.54mm_Vertical.wrl'), ('J3', '${KISYS3DMOD}/Connector_PinHeader_2.54mm.3dshapes/PinHeader_1x02_P2.54mm_Vertical.wrl'), ('RV3', '${KISYS3DMOD}/Potentiometer_THT.3dshapes/Potentiometer_Alps_RK163_Single_Horizontal.wrl'), ('RV6', '${KISYS3DMOD}/Potentiometer_THT.3dshapes/Potentiometer_Alps_RK163_Single_Horizontal.wrl'), ('RV5', '${KISYS3DMOD}/Potentiometer_THT.3dshapes/Potentiometer_Alps_RK163_Single_Horizontal.wrl'), ('R1', '${KISYS3DMOD}/Resistor_THT.3dshapes/R_Axial_DIN0204_L3.6mm_D1.6mm_P2.54mm_Vertical.wrl'), ('R2', '${KISYS3DMOD}/Resistor_THT.3dshapes/R_Axial_DIN0204_L3.6mm_D1.6mm_P2.54mm_Vertical.wrl'), ('R3', '${KISYS3DMOD}/Resistor_THT.3dshapes/R_Axial_DIN0204_L3.6mm_D1.6mm_P2.54mm_Vertical.wrl'), ('R4', '${KISYS3DMOD}/Resistor_THT.3dshapes/R_Axial_DIN0204_L3.6mm_D1.6mm_P2.54mm_Vertical.wrl'), ('R5', '${KISYS3DMOD}/Resistor_THT.3dshapes/R_Axial_DIN0204_L3.6mm_D1.6mm_P2.54mm_Vertical.wrl'), ('R6', '${KISYS3DMOD}/Resistor_THT.3dshapes/R_Axial_DIN0204_L3.6mm_D1.6mm_P2.54mm_Vertical.wrl'), ('R7', '${KISYS3DMOD}/Resistor_THT.3dshapes/R_Axial_DIN0204_L3.6mm_D1.6mm_P2.54mm_Vertical.wrl'), ('R8', '${KISYS3DMOD}/Resistor_THT.3dshapes/R_Axial_DIN0204_L3.6mm_D1.6mm_P2.54mm_Vertical.wrl'), ('R9', '${KISYS3DMOD}/Resistor_THT.3dshapes/R_Axial_DIN0204_L3.6mm_D1.6mm_P2.54mm_Vertical.wrl'), ('R10', '${KISYS3DMOD}/Resistor_THT.3dshapes/R_Axial_DIN0204_L3.6mm_D1.6mm_P2.54mm_Vertical.wrl'), ('R11', '${KISYS3DMOD}/Resistor_THT.3dshapes/R_Axial_DIN0204_L3.6mm_D1.6mm_P2.54mm_Vertical.wrl'), ('R12', '${KISYS3DMOD}/Resistor_THT.3dshapes/R_Axial_DIN0204_L3.6mm_D1.6mm_P2.54mm_Vertical.wrl'), ('R13', '${KISYS3DMOD}/Resistor_THT.3dshapes/R_Axial_DIN0204_L3.6mm_D1.6mm_P2.54mm_Vertical.wrl'), ('R14', '${KISYS3DMOD}/Resistor_THT.3dshapes/R_Axial_DIN0204_L3.6mm_D1.6mm_P2.54mm_Vertical.wrl'), ('R15', '${KISYS3DMOD}/Resistor_THT.3dshapes/R_Axial_DIN0204_L3.6mm_D1.6mm_P2.54mm_Vertical.wrl'), ('R16', '${KISYS3DMOD}/Resistor_THT.3dshapes/R_Axial_DIN0204_L3.6mm_D1.6mm_P2.54mm_Vertical.wrl'), ('R17', '${KISYS3DMOD}/Resistor_THT.3dshapes/R_Axial_DIN0204_L3.6mm_D1.6mm_P2.54mm_Vertical.wrl'), ('R18', '${KISYS3DMOD}/Resistor_THT.3dshapes/R_Axial_DIN0204_L3.6mm_D1.6mm_P2.54mm_Vertical.wrl'), ('R19', '${KISYS3DMOD}/Resistor_THT.3dshapes/R_Axial_DIN0204_L3.6mm_D1.6mm_P2.54mm_Vertical.wrl'), ('R20', '${KISYS3DMOD}/Resistor_THT.3dshapes/R_Axial_DIN0204_L3.6mm_D1.6mm_P2.54mm_Vertical.wrl'), ('R21', '${KISYS3DMOD}/Resistor_THT.3dshapes/R_Axial_DIN0204_L3.6mm_D1.6mm_P2.54mm_Vertical.wrl'), ('SW1', '${KISYS3DMOD}/Connector_PinHeader_2.54mm.3dshapes/PinHeader_1x02_P2.54mm_Vertical.wrl'), ('U2', '${KISYS3DMOD}/Package_DIP.3dshapes/DIP-8_W7.62mm.wrl'), ('U3', '${KISYS3DMOD}/Package_DIP.3dshapes/DIP-8_W7.62mm.wrl'), ('U4', '${KISYS3DMOD}/Package_DIP.3dshapes/DIP-8_W7.62mm.wrl')]
